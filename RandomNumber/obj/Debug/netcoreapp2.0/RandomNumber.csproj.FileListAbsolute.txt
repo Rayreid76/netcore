@@ -1,0 +1,10 @@
+C:\Users\Raymond\Desktop\DojoAssignments\netCore\RandomNumber\obj\Debug\netcoreapp2.0\RandomNumber.csproj.CoreCompileInputs.cache
+C:\Users\Raymond\Desktop\DojoAssignments\netCore\RandomNumber\obj\Debug\netcoreapp2.0\RandomNumber.AssemblyInfoInputs.cache
+C:\Users\Raymond\Desktop\DojoAssignments\netCore\RandomNumber\obj\Debug\netcoreapp2.0\RandomNumber.AssemblyInfo.cs
+C:\Users\Raymond\Desktop\DojoAssignments\netCore\RandomNumber\bin\Debug\netcoreapp2.0\RandomNumber.deps.json
+C:\Users\Raymond\Desktop\DojoAssignments\netCore\RandomNumber\bin\Debug\netcoreapp2.0\RandomNumber.runtimeconfig.json
+C:\Users\Raymond\Desktop\DojoAssignments\netCore\RandomNumber\bin\Debug\netcoreapp2.0\RandomNumber.runtimeconfig.dev.json
+C:\Users\Raymond\Desktop\DojoAssignments\netCore\RandomNumber\bin\Debug\netcoreapp2.0\RandomNumber.dll
+C:\Users\Raymond\Desktop\DojoAssignments\netCore\RandomNumber\bin\Debug\netcoreapp2.0\RandomNumber.pdb
+C:\Users\Raymond\Desktop\DojoAssignments\netCore\RandomNumber\obj\Debug\netcoreapp2.0\RandomNumber.dll
+C:\Users\Raymond\Desktop\DojoAssignments\netCore\RandomNumber\obj\Debug\netcoreapp2.0\RandomNumber.pdb

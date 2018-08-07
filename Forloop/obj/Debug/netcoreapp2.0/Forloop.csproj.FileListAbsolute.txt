@@ -1,0 +1,10 @@
+C:\Users\Raymond\Desktop\DojoAssignments\netCore\Forloop\bin\Debug\netcoreapp2.0\Forloop.deps.json
+C:\Users\Raymond\Desktop\DojoAssignments\netCore\Forloop\bin\Debug\netcoreapp2.0\Forloop.runtimeconfig.json
+C:\Users\Raymond\Desktop\DojoAssignments\netCore\Forloop\bin\Debug\netcoreapp2.0\Forloop.runtimeconfig.dev.json
+C:\Users\Raymond\Desktop\DojoAssignments\netCore\Forloop\bin\Debug\netcoreapp2.0\Forloop.dll
+C:\Users\Raymond\Desktop\DojoAssignments\netCore\Forloop\bin\Debug\netcoreapp2.0\Forloop.pdb
+C:\Users\Raymond\Desktop\DojoAssignments\netCore\Forloop\obj\Debug\netcoreapp2.0\Forloop.csproj.CoreCompileInputs.cache
+C:\Users\Raymond\Desktop\DojoAssignments\netCore\Forloop\obj\Debug\netcoreapp2.0\Forloop.AssemblyInfoInputs.cache
+C:\Users\Raymond\Desktop\DojoAssignments\netCore\Forloop\obj\Debug\netcoreapp2.0\Forloop.AssemblyInfo.cs
+C:\Users\Raymond\Desktop\DojoAssignments\netCore\Forloop\obj\Debug\netcoreapp2.0\Forloop.dll
+C:\Users\Raymond\Desktop\DojoAssignments\netCore\Forloop\obj\Debug\netcoreapp2.0\Forloop.pdb
