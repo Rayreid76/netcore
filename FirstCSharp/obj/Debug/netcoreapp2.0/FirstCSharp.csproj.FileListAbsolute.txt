@@ -1,0 +1,10 @@
+C:\Users\Raymond\Desktop\DojoAssignments\netCore\FirstCSharp\bin\Debug\netcoreapp2.0\FirstCSharp.deps.json
+C:\Users\Raymond\Desktop\DojoAssignments\netCore\FirstCSharp\bin\Debug\netcoreapp2.0\FirstCSharp.runtimeconfig.json
+C:\Users\Raymond\Desktop\DojoAssignments\netCore\FirstCSharp\bin\Debug\netcoreapp2.0\FirstCSharp.runtimeconfig.dev.json
+C:\Users\Raymond\Desktop\DojoAssignments\netCore\FirstCSharp\bin\Debug\netcoreapp2.0\FirstCSharp.dll
+C:\Users\Raymond\Desktop\DojoAssignments\netCore\FirstCSharp\bin\Debug\netcoreapp2.0\FirstCSharp.pdb
+C:\Users\Raymond\Desktop\DojoAssignments\netCore\FirstCSharp\obj\Debug\netcoreapp2.0\FirstCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Raymond\Desktop\DojoAssignments\netCore\FirstCSharp\obj\Debug\netcoreapp2.0\FirstCSharp.AssemblyInfoInputs.cache
+C:\Users\Raymond\Desktop\DojoAssignments\netCore\FirstCSharp\obj\Debug\netcoreapp2.0\FirstCSharp.AssemblyInfo.cs
+C:\Users\Raymond\Desktop\DojoAssignments\netCore\FirstCSharp\obj\Debug\netcoreapp2.0\FirstCSharp.dll
+C:\Users\Raymond\Desktop\DojoAssignments\netCore\FirstCSharp\obj\Debug\netcoreapp2.0\FirstCSharp.pdb
