@@ -1,0 +1,10 @@
+C:\Users\Raymond\Desktop\DojoAssignments\netCore\language_essentials\Arrays\bin\Debug\netcoreapp2.0\Arrays.deps.json
+C:\Users\Raymond\Desktop\DojoAssignments\netCore\language_essentials\Arrays\bin\Debug\netcoreapp2.0\Arrays.runtimeconfig.json
+C:\Users\Raymond\Desktop\DojoAssignments\netCore\language_essentials\Arrays\bin\Debug\netcoreapp2.0\Arrays.runtimeconfig.dev.json
+C:\Users\Raymond\Desktop\DojoAssignments\netCore\language_essentials\Arrays\bin\Debug\netcoreapp2.0\Arrays.dll
+C:\Users\Raymond\Desktop\DojoAssignments\netCore\language_essentials\Arrays\bin\Debug\netcoreapp2.0\Arrays.pdb
+C:\Users\Raymond\Desktop\DojoAssignments\netCore\language_essentials\Arrays\obj\Debug\netcoreapp2.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Raymond\Desktop\DojoAssignments\netCore\language_essentials\Arrays\obj\Debug\netcoreapp2.0\Arrays.AssemblyInfoInputs.cache
+C:\Users\Raymond\Desktop\DojoAssignments\netCore\language_essentials\Arrays\obj\Debug\netcoreapp2.0\Arrays.AssemblyInfo.cs
+C:\Users\Raymond\Desktop\DojoAssignments\netCore\language_essentials\Arrays\obj\Debug\netcoreapp2.0\Arrays.dll
+C:\Users\Raymond\Desktop\DojoAssignments\netCore\language_essentials\Arrays\obj\Debug\netcoreapp2.0\Arrays.pdb
